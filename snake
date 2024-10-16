@@ -24,5 +24,3 @@ class Snake:
         self.add_segment(self.segments[-1].position())
 
 
-
-
