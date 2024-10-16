@@ -12,7 +12,7 @@ snake = Snake()
 
 Game_is_on = True
 while Game_is_on:
-    screen.update
+    screen.update()
     time.sleep(0.1)
 
 screen.exitonclick()
